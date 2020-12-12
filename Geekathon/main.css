@@ -1,0 +1,40 @@
+* {
+  background: black;
+}
+.head {
+  background: url("./forest-931706_1920.jpg");
+  height: 100vh;
+  border-radius: 20px;
+}
+#mainhead {
+  text-align: center;
+  color: white;
+  margin-top: -500px;
+  font-family: "Righteous", cursive;
+  font-size: 70px;
+}
+.remain {
+  margin-top: 450px;
+  color: white;
+}
+#textm {
+  text-align: center;
+  font-family: "Righteous", cursive;
+  font-size: 50px;
+}
+#p1 {
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: "PT Sans Caption", sans-serif;
+}
+#vec1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+#chatbox {
+  background: center;
+  font-family: "PT Sans Caption", sans-serif;
+  background: none;
+}
